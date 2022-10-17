@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Fragment Pertama</string>
+    <string name="second_fragment_label">Fragment Kedua</string>
+    <string name="next">Selanjutnya</string>
+    <string name="previous">Sebelumnya</string>
+
+    <string name="hello_first_fragment">Hai fragment pertama</string>
+    <string name="hello_second_fragment">Hai fragment kedua. Arg: %1$s</string>
+    <string name="sign_up">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="already_have_account_login">"Sudah mempunyai akun? <font fgcolor="#F8B400"> Masuk </font> "</string>
+    <string name="check_input">Periksa kembali inputan anda</string>
+    <string name="image_photo">gambarPhoto</string>
+    <string name="description">Keterangan</string>
+    <string name="title">Judul</string>
+    <string name="add_button">tambahkanTombol</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="input_description">Masukkan Keterangan</string>
+    <string name="upload">Mengunggah</string>
+    <string name="languages">Bahasa</string>
+    <string name="logout">Keluar</string>
+    <string name="story_app">Story App</string>
+    <string name="imageview">TampilanGambar</string>
+    <string name="emailValidation_alert">Email tidak valid</string>
+    <string name="passwordValidation_alert">Password kurang dari 6 karakter</string>
+    <string name="logout_alert">Berhasil Logout</string>
+    <string name="addStories_alert">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="failedShowImage_alert">Gagal memunculkan kamera.</string>
+    <string name="faiIedCapture_alert">Gagal mengambil gambar.</string>
+    <string name="permission_alert">Tidak mendapatkan permission.</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>

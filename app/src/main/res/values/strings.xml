@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="already_have_account_login">Already have account? <font fgcolor="#F8B400"> Login </font> </string>
+    <string name="check_input">Check your input</string>
+    <string name="image_photo">imagePhoto</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="add_button">addButton</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="input_description">Input Description</string>
+    <string name="upload">Upload</string>
+    <string name="languages">Languages</string>
+    <string name="logout">Logout</string>
+    <string name="story_app">Story App</string>
+    <string name="imageview">Imageview</string>
+    <string name="emailValidation_alert">Invalid Email</string>
+    <string name="passwordValidation_alert">Password less than 6 character</string>
+    <string name="logout_alert">Completed Logout</string>
+    <string name="addStories_alert">Please add the image first</string>
+    <string name="failedShowImage_alert">Failed to show Image.</string>
+    <string name="faiIedCapture_alert">Failed to Capture.</string>
+    <string name="permission_alert">Not getting permission</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>
